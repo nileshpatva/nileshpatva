@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/nileshpatva/nileshpatva/master/wave.gif" width="30px">
 
-My name is Nilesh Patva and I'm a software developer. I'm from India, living in Ahmedabad and currently working with Walmart. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Nilesh Patva and I'm a software developer. I'm from India, living in Ahmedabad and currently working at DocuSign. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 
 ## 🔧 Technologies & Tools
